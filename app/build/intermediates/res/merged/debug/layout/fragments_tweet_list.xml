@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipeContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvTweets"/>
+</android.support.v4.widget.SwipeRefreshLayout>
+<!-- From: file:/Users/kavitha/projects/android_projects/codepath/codepath_assignments/CodePathProject4TwitterClientFragments/app/src/main/res/layout/fragments_tweet_list.xml -->
